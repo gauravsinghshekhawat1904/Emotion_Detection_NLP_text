@@ -1,5 +1,7 @@
 # Emotion Detection in Text using Natural Language Processing
 
+Project Link deployed on Streamlit : https://emotiondetectionnlptext-vnt7pdmbshflawxqbjsyzh.streamlit.app/
+
 <img src="./images/index.png"/>
 
 <br>
